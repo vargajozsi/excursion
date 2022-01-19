@@ -16,3 +16,7 @@ main a {
   color: aquamarine;
   font-size: 16px;
 }
+video {
+  display: block;
+  margin: 30px auto;
+}
